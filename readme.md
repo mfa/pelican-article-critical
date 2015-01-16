@@ -15,12 +15,15 @@ pip install pelican==3.5.0 Markdown
 
 ## run
 
+(on initial commit)
+
 ```
 pelican content
 ```
 
-output:
+### output:
 ```
 CRITICAL: unorderable types: Article() < Article()
 ```
+
 
